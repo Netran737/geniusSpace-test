@@ -1,0 +1,15 @@
+.button {
+  cursor: pointer;
+  border: 2px solid rgba(129, 155, 87, 1);
+  background: rgba(129, 155, 87, 1);
+  border-radius: 8px;
+  color: rgba(250, 244, 234, 1);
+}
+
+.button:hover {
+  background-color: transparent;
+  color: rgba(70, 89, 41, 1);
+}
+.button:focus {
+  background-color: hotpink;
+}
